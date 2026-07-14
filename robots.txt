@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-hsa0ws.nisur4u.co.il/sitemap.xml
